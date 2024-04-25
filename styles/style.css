@@ -77,7 +77,7 @@
   background-color: transparent;
   border: 1px solid transparent;
   padding: 1.5px 13px;
-  cursor: pointer; 
+  cursor: pointer;
 }
 .header__theme-menu-button_active {
   pointer-events: none;
